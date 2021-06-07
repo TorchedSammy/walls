@@ -2,3 +2,5 @@ wallhaven-m93jwk.jpg filter=lfs diff=lfs merge=lfs -text
 woman-sitting-at-pc.jpg filter=lfs diff=lfs merge=lfs -text
 clouds1.jpg filter=lfs diff=lfs merge=lfs -text
 purplesky.png filter=lfs diff=lfs merge=lfs -text
+. filter=lfs diff=lfs merge=lfs -text
+moon.jpg filter=lfs diff=lfs merge=lfs -text
