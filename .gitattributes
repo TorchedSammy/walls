@@ -7,3 +7,4 @@ moon.jpg filter=lfs diff=lfs merge=lfs -text
 blossoms.jpg filter=lfs diff=lfs merge=lfs -text
 clouds2.jpg filter=lfs diff=lfs merge=lfs -text
 clouds3.jpg filter=lfs diff=lfs merge=lfs -text
+rooftop.jpg filter=lfs diff=lfs merge=lfs -text
