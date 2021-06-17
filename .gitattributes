@@ -4,3 +4,6 @@ clouds1.jpg filter=lfs diff=lfs merge=lfs -text
 purplesky.png filter=lfs diff=lfs merge=lfs -text
 . filter=lfs diff=lfs merge=lfs -text
 moon.jpg filter=lfs diff=lfs merge=lfs -text
+blossoms.jpg filter=lfs diff=lfs merge=lfs -text
+clouds2.jpg filter=lfs diff=lfs merge=lfs -text
+clouds3.jpg filter=lfs diff=lfs merge=lfs -text
