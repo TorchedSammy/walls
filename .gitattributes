@@ -8,3 +8,8 @@ blossoms.jpg filter=lfs diff=lfs merge=lfs -text
 clouds2.jpg filter=lfs diff=lfs merge=lfs -text
 clouds3.jpg filter=lfs diff=lfs merge=lfs -text
 rooftop.jpg filter=lfs diff=lfs merge=lfs -text
+bouquet.jpg filter=lfs diff=lfs merge=lfs -text
+discord-login.jpg filter=lfs diff=lfs merge=lfs -text
+flowers.jpg filter=lfs diff=lfs merge=lfs -text
+fractal.jpg filter=lfs diff=lfs merge=lfs -text
+abstractsplash.png filter=lfs diff=lfs merge=lfs -text
