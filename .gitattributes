@@ -13,3 +13,8 @@ discord-login.jpg filter=lfs diff=lfs merge=lfs -text
 flowers.jpg filter=lfs diff=lfs merge=lfs -text
 fractal.jpg filter=lfs diff=lfs merge=lfs -text
 abstractsplash.png filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+circletile.png filter=lfs diff=lfs merge=lfs -text
+helltaker.jpg filter=lfs diff=lfs merge=lfs -text
+modeus.png filter=lfs diff=lfs merge=lfs -text
+modeus-darkbg.png filter=lfs diff=lfs merge=lfs -text
