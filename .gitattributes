@@ -21,3 +21,5 @@ modeus-darkbg.png filter=lfs diff=lfs merge=lfs -text
 bigsur.jpg filter=lfs diff=lfs merge=lfs -text
 bigsur2.jpg filter=lfs diff=lfs merge=lfs -text
 blossoms2.jpg filter=lfs diff=lfs merge=lfs -text
+stardew.png filter=lfs diff=lfs merge=lfs -text
+stardew2.jpg filter=lfs diff=lfs merge=lfs -text
