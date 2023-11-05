@@ -39,3 +39,9 @@ SYNTAX-dark.png filter=lfs diff=lfs merge=lfs -text
 dark-street.jpg filter=lfs diff=lfs merge=lfs -text
 meadows.jpg filter=lfs diff=lfs merge=lfs -text
 DodecaPink.jpg filter=lfs diff=lfs merge=lfs -text
+15.png filter=lfs diff=lfs merge=lfs -text
+280d9e329ee6f40ce28a43c9d823376a.jpg filter=lfs diff=lfs merge=lfs -text
+outrun-skyscape.png filter=lfs diff=lfs merge=lfs -text
+tile-colorful-80.png filter=lfs diff=lfs merge=lfs -text
+tile-memphis-mini-dark.webp filter=lfs diff=lfs merge=lfs -text
+wallhaven-kx9ql7.jpg filter=lfs diff=lfs merge=lfs -text
